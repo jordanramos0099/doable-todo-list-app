@@ -447,9 +447,6 @@ Distributed under the MIT License. Click [LICENSE.md](https://github.com/theakhi
 <!-- CONTACT -->
 ## 📞 Support
 
-Akhin Abraham - [instagram.com/akhinabr](https://instagram.com/akhinabr) - theakhinabraham@gmail.com
-
-Repository Link: [https://github.com/theakhinabraham/doable-todo-list-app](https://github.com/theakhinabraham/doable-todo-list-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
