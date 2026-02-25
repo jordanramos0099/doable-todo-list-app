@@ -85,7 +85,7 @@ An offline, single‑device to‑do app built with Flutter and SQLite. Features 
 <!-- BUILT WITH -->
 ### Built With Flutter
 
-Flutter is an open source framework developed and supported by Google. App Developers use Flutter to build mobile apps for multiple platforms (iOS/android) with a single codebase. <br><br>
+Flutter is an open source framework developed, and supported by Google. App Developers use Flutter to build mobile apps for multiple platforms (iOS/android) with a single codebase. <br><br>
 <img src="https://storage.googleapis.com/cms-storage-bucket/d113e56856107a174445.svg" style="height:50px; width:150px;">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
